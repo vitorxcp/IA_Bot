@@ -1,0 +1,4 @@
+DISPLAY_NAME=IA_Bot
+MAIN=jsScript/index.js
+MEMORY=100
+VERSION=latest
